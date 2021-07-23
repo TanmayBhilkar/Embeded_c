@@ -1,13 +1,4 @@
-/**
- * @file led.h
- * @author vinayak katigar (vvkatigar1999@gmail.com)
- * @brief Activity_1
- * @version 0.1
- * @date 2021-04-24
- *
- * @copyright Copyright (c) 2021
- *
- */
+
 
 #ifndef __LED_H_
 #define __LED_H_
