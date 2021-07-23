@@ -1,13 +1,4 @@
-/**
- * @file adc.h
- * @author Tanmay Bhilkar
- * @brief ADC function definition
- * @version 0.1
- * @date 2021-07-23
- *
- * @copyright Copyright (c) 2021
- *
- */
+
 
 #ifndef __ADC_H__
 #define __ADC_H__
