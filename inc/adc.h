@@ -1,9 +1,9 @@
 /**
  * @file adc.h
- * @author vinayak katigar (vvkatigar1999@gmail.com)
+ * @author Tanmay Bhilkar
  * @brief ADC function definition
  * @version 0.1
- * @date 2021-04-26
+ * @date 2021-07-23
  *
  * @copyright Copyright (c) 2021
  *
