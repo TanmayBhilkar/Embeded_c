@@ -1,15 +1,6 @@
 
 
-/**
- * @file led.c
- * @author vinayak katigar (vvkatigar1999@gmail.com)
- * @brief led state Changes with two switch
- * @version 0.1
- * @date 2021-04-23
- *
- * @copyright Copyright (c) 2021
- *
- */
+
 // include files
 #include<avr/io.h>
 #include "led.h"
