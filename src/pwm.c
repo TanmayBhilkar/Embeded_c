@@ -1,15 +1,4 @@
-/**
- * @file pwm.c
- * @author vinayak katigar (vvkatigar1999@gmail.com)
- * @brief PWM wave according to temperature
- * @version 0.1
- * @date 2021-04-27
- *
- * @copyright Copyright (c) 2021
- *
- */
-
-#include"pwm.h"
+ #include"pwm.h"
 #include<util/delay.h>
 #include<avr/io.h>
 
