@@ -40,6 +40,8 @@ Heat actuation according to drivers’ condition when he will be increasing or d
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4c63db07e0c548b7a4ed5567f7994e62)](https://www.codacy.com/gh/TanmayBhilkar/Embeded_c/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TanmayBhilkar/Embeded_c&amp;utm_campaign=Badge_Grade)
 
+[![cppcheck-action-test](https://github.com/TanmayBhilkar/Embeded_c/actions/workflows/main.yml/badge.svg)](https://github.com/TanmayBhilkar/Embeded_c/actions/workflows/main.yml)
+
 
 
 
