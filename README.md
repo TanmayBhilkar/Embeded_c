@@ -22,7 +22,7 @@ Driver heater is in on condition and giving Temperature according to Body Temper
 
 Heat actuation according to drivers’ condition when he will be increasing or decreasing the temperature.
 
-![ac_4](https://user-images.githubusercontent.com/86276947/127434675-030b17d3-b3f3-429d-8725-86ee07bd9fcb.PNG)
+![ac_4](https://user-images.githubusercontent.com/86276947/127434675-030b17d3-b3f3-429d-8725-86ee07bd9fcb.PNG =250x250)
 
 
 
