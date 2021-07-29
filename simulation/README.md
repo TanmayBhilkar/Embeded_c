@@ -1,4 +1,4 @@
-Car Seat Heater (driver’s Seat sensors)
+**Car Seat Heater (driver’s Seat sensors)**
 
 •	This are the Simulations done on simulide for different activities which combined as 1 project.
 
