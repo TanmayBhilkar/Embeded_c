@@ -32,8 +32,9 @@ Heat actuation according to drivers’ condition when he will be increasing or d
 
 | Build | Code Quality | Git Inspector |
 |-----|-----|-----|
+![score](https://www.code-inspector.com/project/25795/score/svg)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4c63db07e0c548b7a4ed5567f7994e62)](https://www.codacy.com/gh/TanmayBhilkar/Embeded_c/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TanmayBhilkar/Embeded_c&amp;utm_campaign=Badge_Grade)
-![score](https://www.code-inspector.com/project/25795/score/svg)
+
 
 ![quality](https://www.code-inspector.com/project/25795/status/svg)
