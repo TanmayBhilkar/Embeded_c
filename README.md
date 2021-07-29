@@ -1,5 +1,7 @@
 # Embeded_c
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2be16bea6a794af080249ce0d0c970c8)](https://app.codacy.com/gh/TanmayBhilkar/Embeded_c?utm_source=github.com&utm_medium=referral&utm_content=TanmayBhilkar/Embeded_c&utm_campaign=Badge_Grade_Settings)
+
 
 ## Car Seat Heater (driver’s Seat sensors)
 
