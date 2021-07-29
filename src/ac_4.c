@@ -1,4 +1,3 @@
-
 #include<avr/io.h>
 #include"ac_4.h"
 
@@ -17,7 +16,7 @@ void UARTwrite(char data)
 {
     while(!(UCSR0A & (1<<UDRE0)))
     {
-      //nothing
+      
     }
     UDR0 = data;
 }
