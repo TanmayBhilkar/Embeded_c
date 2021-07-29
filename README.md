@@ -22,6 +22,8 @@ Driver heater is in on condition and giving Temperature according to Body Temper
 Heat actuation according to drivers’ condition when he will be increasing or decreasing the temperature.
 
 
+# Badges
+
 
 
 
