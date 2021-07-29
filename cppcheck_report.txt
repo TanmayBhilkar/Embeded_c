@@ -1,0 +1,8 @@
+src/ac_3.c:21:14: style: Unsigned expression 'ticks' can't be negative so it is unnecessary to test it. [unsignedPositive]
+    if((ticks>=0) && (ticks<=103))
+             ^
+src/ac_4.c:8:38: style: Same expression on both sides of '|'. [duplicateExpression]
+    UCSR0C = (1<<UMSEL00)|(1<<UCSZ01)|(1<<UCSZ01);
+                                     ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
