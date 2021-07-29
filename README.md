@@ -42,6 +42,8 @@ Heat actuation according to drivers’ condition when he will be increasing or d
 
 [![cppcheck-action-test](https://github.com/TanmayBhilkar/Embeded_c/actions/workflows/main.yml/badge.svg)](https://github.com/TanmayBhilkar/Embeded_c/actions/workflows/main.yml)
 
+[![CI](https://github.com/TanmayBhilkar/Embeded_c/actions/workflows/CI.yml/badge.svg)](https://github.com/TanmayBhilkar/Embeded_c/actions/workflows/CI.yml)
+
 
 
 
